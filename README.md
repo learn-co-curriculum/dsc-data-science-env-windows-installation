@@ -51,7 +51,7 @@ Note - if there are any differences in the options provided in the installer you
 
 Step 1 - Accept License: 
 
-><img src="Images/git_license.PNG" width="650">   
+<img src="Images/git_license.PNG" width="650">   
 
 ***
 
