@@ -56,43 +56,43 @@ Step 3 - Select components:
 
 Step 4 - Select default editor:  
 
-<img src="Images/default_editor.PNG" width="450">
+<img src="Images/default_editor.png" width="450">
 
 Step 5 - Adjust your PATH environment:  
 
-<img src="Images/adjust_path.PNG" width="450">
+<img src="Images/adjust_path.png" width="450">
 
 Step 6 - Choose HTTPS transport backend
 
-<img src="Images/https_backend.PNG" width="450">
+<img src="Images/https_backend.png" width="450">
 
 Step 7 - Configure line-ending conversions
 
-<img src="Images/line_ending.PNG" width="450">
+<img src="Images/line_ending.png" width="450">
 
 Step 8 - Configure the terminal emulator to use with Git Bash
 
-<img src="Images/terminal_emulator.PNG" width="450">
+<img src="Images/terminal_emulator.png" width="450">
 
 Step 9 - Configure extra options
 
-<img src="Images/default_pull.PNG" width="450">
+<img src="Images/default_pull.png" width="450">
 
 Step 10 - Configure extra options
 
-<img src="Images/extra_options.PNG" width="450">
+<img src="Images/extra_options.png" width="450">
 
 Step 11 - Choose a credential helper
 
-<img src="Images/credential_helper.PNG" width="650">
+<img src="Images/credential_helper.png" width="650">
 
 Step 12 - Installation
 
-<img src="Images/installation.PNG" width="650">
+<img src="Images/installation.png" width="650">
 
 Step 13 - Complete!
 
-<img src="Images/complete.PNG" width="650">
+<img src="Images/complete.png" width="650">
 
 ## Installing Anaconda 
 
