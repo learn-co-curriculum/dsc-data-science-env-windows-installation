@@ -17,23 +17,30 @@ Please note - the exact names and versions will change over time.
 
 ## Installing Git
 
+<img src="git_download.png" width="650">
+
 ### Overview: 
 
 1. Download the install package from [here](https://git-scm.com/download/win)
 2. Double click to open the downloaded exe file
     - It may open a window asking if you want to allow this application to make changes to your device, click “Yes”
-3. Click “Next” to accept the license
-4. Select Components on the next screen - make sure to keep the “Windows Explorer integration” options checked *
-5. Choose a default editor that you are comfortable with, or choose either Nano or Visual Studio Code if you have not used an editor before
+    - Click “Next” to accept the license
+3. Select Components on the next screen. 
+    - make sure to keep the “Windows Explorer integration” options checked
+4. Choose a default editor that you are comfortable with, or choose either Nano or Visual Studio Code if you have not used an editor before
     - If you know or have used vi/vim, feel free to use it (otherwise it is not recommended)
-6. Adjust your PATH environment - select “Use Git from the Windows Command Prompt”
+    - You must have the editor installed to continue.  You can set a default now and change it later.
+5. Adjust your PATH environment. 
+    - select “Use Git from the Windows Command Prompt”
     - The first option is also fine, as you’ll mainly be using Git from the new “Git Bash” program that is being installed, but the second option is ideal as it’ll give you the option of using it through either Git Bash or the Windows Command Prompt in the future if you wish
-7. Choose HTTPS transport backend- select the “Use the OpenSSL library” option
-8. Configure line-ending conversions - select the default option for handling line endings
-9. Use MinTTY as the default terminal emulator
-10. Configure extra options to enable file system caching and the git credential manager
-11. Wait while Git is installed onto your computer
-12. Click "Finish" to complete set-up
+6. Choose HTTPS transport backend. 
+    - select the “Use the OpenSSL library” option
+7. Configure line-ending conversions. 
+    - select the default option for handling line endings
+8. Use MinTTY as the default terminal emulator
+9. Configure extra options to enable file system caching and the git credential manager
+10. Wait while Git is installed onto your computer
+11. Click "Finish" to complete set-up
 
 
 \* It is **strongly suggested** that you select any options to install and use the "Git Bash" shell - it's generally included by default. The Git Bash shell will allow students with either Windows or Mac computers to run the same set of commands.
