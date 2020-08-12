@@ -42,41 +42,57 @@ Note - if there are any differences in the options provided in the installer you
 
 #### Git Installation Steps, step-by-step:
 
-Step 4 - Select components: 
+Step 1 - Accept License: 
 
-![screen-1](http://curriculum-content.s3.amazonaws.com/data-science/screen-1.png)
+![screen-1](/images/git_license.png)
 
-Step 5 - Choose a default editor:
+Step 2 - Select Destination:
 
-![screen-2](http://curriculum-content.s3.amazonaws.com/data-science/screen-2.png)
+![screen-2](/images/select_destination.png)
 
-Step 6 - Adjust your PATH environment
+Step 3 - Select components:
 
-![screen-0](http://curriculum-content.s3.amazonaws.com/data-science/screen-0.png)
+![screen-3](/images/select_components.png)
 
-Step 7 - Choose HTTPS transport backend
+Step 4 - Select default editor:
 
-![screen-3](http://curriculum-content.s3.amazonaws.com/data-science/screen-3.png)
+![screen-4](/images/default_editor.png)
 
-Step 8 - Configure line-ending conversions
+Step 5 - Adjust your PATH environment
 
-![screen-4](http://curriculum-content.s3.amazonaws.com/data-science/screen-4.png)
+![screen-5](/images/adjust_path.png)
 
-Step 9 - Configure the terminal emulator to use with Git Bash
+Step 6 - Choose HTTPS transport backend
 
-![screen-5](http://curriculum-content.s3.amazonaws.com/data-science/screen-5.png)
+![screen-6](images/https_backend.png)
+
+Step 7 - Configure line-ending conversions
+
+![screen-7](/images/line_ending.png)
+
+Step 8 - Configure the terminal emulator to use with Git Bash
+
+![screen-8](/images/terminal_emulator.png)
+
+Step 9 - Configure extra options
+
+![screen-9](/images/default_pull.png)
 
 Step 10 - Configure extra options
 
-![screen-6](http://curriculum-content.s3.amazonaws.com/data-science/screen-6.png)
+![screen-10](/images/extra_options.png)
+
+Step 10 - Choose a credential helper
+
+![screen-10](/images/credential_helper.png)
 
 Step 11 - Installation
 
-![screen-7](http://curriculum-content.s3.amazonaws.com/data-science/screen-7.png)
+![screen-11](/immages/installation.png)
 
 Step 12 - Complete!
 
-![screen-8](http://curriculum-content.s3.amazonaws.com/data-science/screen-8.png)
+![screen-12](/images/complete.png)
 
 ## Installing Anaconda 
 
