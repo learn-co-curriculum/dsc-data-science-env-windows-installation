@@ -44,43 +44,43 @@ Note - if there are any differences in the options provided in the installer you
 
 Step 1 - Accept License: 
 
-<img src="Images/git_license.PNG" width="450">
+<img src="Images/git_license.PNG" width="650">
 
 Step 2 - Select Destination:
 
-<img src="Images/select_destination.PNG" width="450">
+<img src="Images/select_destination.PNG" width="650">
 
 Step 3 - Select components:  
 
-<img src="Images/select_components.PNG" width="450">
+<img src="Images/select_components.PNG" width="650">
 
 Step 4 - Select default editor:  
 
-<img src="Images/default_editor.png" width="450">
+<img src="Images/default_editor.png" width="650">
 
 Step 5 - Adjust your PATH environment:  
 
-<img src="Images/adjust_path.png" width="450">
+<img src="Images/adjust_path.png" width="650">
 
 Step 6 - Choose HTTPS transport backend
 
-<img src="Images/https_backend.png" width="450">
+<img src="Images/https_backend.png" width="650">
 
 Step 7 - Configure line-ending conversions
 
-<img src="Images/line_ending.png" width="450">
+<img src="Images/line_ending.png" width="650">
 
 Step 8 - Configure the terminal emulator to use with Git Bash
 
-<img src="Images/terminal_emulator.png" width="450">
+<img src="Images/terminal_emulator.png" width="650">
 
 Step 9 - Configure extra options
 
-<img src="Images/default_pull.png" width="450">
+<img src="Images/default_pull.png" width="650">
 
 Step 10 - Configure extra options
 
-<img src="Images/extra_options.png" width="450">
+<img src="Images/extra_options.png" width="650">
 
 Step 11 - Choose a credential helper
 
