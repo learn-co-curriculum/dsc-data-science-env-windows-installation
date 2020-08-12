@@ -44,7 +44,7 @@ Note - if there are any differences in the options provided in the installer you
 
 Step 1 - Accept License: 
 
-![screen-1](/images/git_license.png)
+![screen-1](/Images/git_license.png)
 
 Step 2 - Select Destination:
 
