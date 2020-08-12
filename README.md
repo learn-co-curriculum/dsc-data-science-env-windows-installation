@@ -44,55 +44,55 @@ Note - if there are any differences in the options provided in the installer you
 
 Step 1 - Accept License: 
 
-![screen-1](/Images/git_license.png)
+<img src="Images/git_license.PNG" width="450">
 
 Step 2 - Select Destination:
 
-![screen-2](/images/select_destination.png)
+<img src="Images/select_destination.PNG" width="450">
 
-Step 3 - Select components:
+Step 3 - Select components:  
 
-![screen-3](/images/select_components.png)
+<img src="Images/select_components.PNG" width="450">
 
-Step 4 - Select default editor:
+Step 4 - Select default editor:  
 
-![screen-4](/images/default_editor.png)
+<img src="Images/default_editor.PNG" width="450">
 
-Step 5 - Adjust your PATH environment
+Step 5 - Adjust your PATH environment:  
 
-![screen-5](/images/adjust_path.png)
+<img src="Images/adjust_path.PNG" width="450">
 
 Step 6 - Choose HTTPS transport backend
 
-![screen-6](images/https_backend.png)
+<img src="Images/https_backend.PNG" width="450">
 
 Step 7 - Configure line-ending conversions
 
-![screen-7](/images/line_ending.png)
+<img src="Images/line_ending.PNG" width="450">
 
 Step 8 - Configure the terminal emulator to use with Git Bash
 
-![screen-8](/images/terminal_emulator.png)
+<img src="Images/terminal_emulator.PNG" width="450">
 
 Step 9 - Configure extra options
 
-![screen-9](/images/default_pull.png)
+<img src="Images/default_pull.PNG" width="450">
 
 Step 10 - Configure extra options
 
-![screen-10](/images/extra_options.png)
+<img src="Images/extra_options.PNG" width="450">
 
-Step 10 - Choose a credential helper
+Step 11 - Choose a credential helper
 
-![screen-10](/images/credential_helper.png)
+<img src="Images/credential_helper.PNG" width="650">
 
-Step 11 - Installation
+Step 12 - Installation
 
-![screen-11](/immages/installation.png)
+<img src="Images/installation.PNG" width="650">
 
-Step 12 - Complete!
+Step 13 - Complete!
 
-![screen-12](/images/complete.png)
+<img src="Images/complete.PNG" width="650">
 
 ## Installing Anaconda 
 
