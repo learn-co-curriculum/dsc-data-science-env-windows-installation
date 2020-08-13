@@ -129,6 +129,8 @@ Step 13 - Complete!
 
 ## Installing Anaconda 
 
+<img src="/Images/
+
 The easiest way to get set up with Python and Jupyter Notebook so you can start coding is to install the Anaconda distribution. 
 
 ### Overview:
