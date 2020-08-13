@@ -129,19 +129,19 @@ Step 13 - Complete!
 
 ## Installing Anaconda 
 
-<img src="/Images/
-
 The easiest way to get set up with Python and Jupyter Notebook so you can start coding is to install the Anaconda distribution. 
+
+<img src="Images/anaconda.png" width="650">
 
 ### Overview:
 
-1. Download the latest version of Anaconda [here](https://www.anaconda.com/download/#windows) - use Python 3.x (ignore Python 2.7)
+1. Download the latest version of Anaconda [here](https://www.anaconda.com/download/#windows) - use Python 3.x
 
     - A window may pop up asking if you want to give Anaconda your information in return for a cheat sheet - you do not need to do so unless you want to
 
-2. Open the exe file once it has downloaded to open the Anaconda installer
+2. Open the .exe file once it has downloaded to open the Anaconda installer
 
-    - Option 1: When the exe file is finished downloading, click the arrow to the right of the name of the file at the bottom of your browser, and select "Open"
+    - Option 1: When the .exe file is finished downloading, click the arrow to the right of the name of the file at the bottom of your browser, and select "Open"
     - Option 2: Navigate to your "Downloads" folder and double click on the Anaconda exe file to open it
 
 3. Click "Next", then "I agree" to accept the license
@@ -151,7 +151,7 @@ The easiest way to get set up with Python and Jupyter Notebook so you can start 
 7. Wait while Anaconda is installed on your computer
 8. When the Anaconda installation is complete, click "Next"
 
-    - You can skip the Visual Studio Code installation
+    - You can skip the Pycharm installation
 
 9. When it thanks you for installing Anaconda, click "Finish"
     - You do not need to learn more about your installation, and can close the browser window if it opens
@@ -160,47 +160,69 @@ The easiest way to get set up with Python and Jupyter Notebook so you can start 
 
 Step 1 - Download Anaconda for Python 3.x
 
-![screen-15](http://curriculum-content.s3.amazonaws.com/data-science/screen-15.png)
+<img src="Images/anaconda_download.png" width="650">  
 
-Step 2 Option 1 - Open the exe file from the browser
+***
 
-![screen-16](http://curriculum-content.s3.amazonaws.com/data-science/screen-16.png)
+Step 2 Open the exe file from the browser or your downloads folder
 
-Step 2 Option 2 - Open the exe file from your Downloads folder
+<img src="Images/anaconda_license.png" width="650">  
 
-![screen-17](http://curriculum-content.s3.amazonaws.com/data-science/screen-17.png)
+***
 
 Step 3 - Continue through the Anaconda installer
 
-![screen-18](http://curriculum-content.s3.amazonaws.com/data-science/screen-18.png)
+<img src="Images/anaconda_install.png" width="650">  
+
+***
+
+Step 4 Install for "Just me" and click "Next"
+
+<img src="Images/just_me.png" width="650">  
+
+***
 
 Step 5 - Choose install location
 
-![screen-19](http://curriculum-content.s3.amazonaws.com/data-science/screen-19.png)
+<img src="Images/install_location.png" width="650">  
+
+***
 
 Step 6 - Advanced Installation Options: **make sure to check the "Add Anaconda to my PATH environment" checkbox**
 
-![screen-20](http://curriculum-content.s3.amazonaws.com/data-science/screen-00.png)
+<img src="Images/advanced_options.png" width="650">  
+
+***
 
 Step 7 - Installing Anaconda
 
-![screen-21](http://curriculum-content.s3.amazonaws.com/data-science/screen-21.png)
+<img src="Images/install_location.png" width="650">  
+
+***
 
 Step 8 - Completing the install
 
-![screen-22](http://curriculum-content.s3.amazonaws.com/data-science/screen-22.png)
+<img src="Images/install_complete.png" width="650">  
 
-You can skip the Visual Studio Code installation
+***
 
-![screen-23](http://curriculum-content.s3.amazonaws.com/data-science/screen-23.png)
+You can skip the Pycharm installation
+
+<img src="Images/skip_pycharm.png" width="650">  
+
+***
 
 Step 9 - Finish the install
 
-![screen-24](http://curriculum-content.s3.amazonaws.com/data-science/screen-24.png)
+<img src="Images/finish_install.png" width="650">  
 
-You can close any browser window opens to an Anaconda page
+***
 
-![screen-25](http://curriculum-content.s3.amazonaws.com/data-science/screen-25.png)
+You can close any browser window that opens to an Anaconda page
+
+<img src="Images/anaconda_page.png" width="650">  
+
+***
 
 ## Summary
 
