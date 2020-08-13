@@ -49,7 +49,9 @@ Note - if there are any differences in the options provided in the installer you
 
 #### Git Installation Steps, step-by-step:
 
-Step 1 - Accept License: 
+Step 1 - Accept License:  
+
+* Click `NEXT` to continue
 
 <img src="Images/git_license.PNG" width="650">   
 
@@ -62,6 +64,7 @@ Step 2 - Select Destination:
 ***
 
 Step 3 - Select components:  
+* make sure to keep the “Windows Explorer integration” options checked  
 
 <img src="Images/select_components.PNG" width="650">
 
