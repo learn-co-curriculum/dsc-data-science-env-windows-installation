@@ -121,6 +121,8 @@ To confirm you have installed Git successfully:
     - When we ask you to use the terminal, we mean the Git Bash application we just installed through Git
 2. Type `git --version`: It should return the version of git you are running
 
+---
+
 ## Installing Anaconda 
 
 <img src="images/win_anaconda.png" width="650">
