@@ -57,7 +57,7 @@ Note - if there are any differences in the options provided in the installer you
 
 #### Git Installation Step-by-Step:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB09TxDpbxOjud38L2dX0_YJbh2JOVDMYqkTOxhEbhKKLjCmwM9JP27JTJ8VtOYAwnPzlJg_Ipf7gd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlS3tkleAy3Hjbaxv1pHgIFka_IHAxFQZ8VSrcHtGO9adjJ9ZL77D2RYSLXly7JWWs_oL9sCtZFe-p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Confirming Your Git Installation
 
