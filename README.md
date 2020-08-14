@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Windows
+There are two major pieces we need to install in order to set you up for success as a professional data scientist! In this lesson, we will be installing Git and Anaconda for Windows.
 
 ## Objectives
 
@@ -17,216 +17,175 @@ Please note - the exact names and versions will change over time.
 
 ## Installing Git
 
-<img src="Images/git_download.png" width="450">
-
 ### Overview: 
 
-1. Download the install package from [here](https://git-scm.com/download/win)
-2. Double click to open the downloaded exe file
+1. Download the install package from <a href="https://git-scm.com/download/win" target="_blank">here</a>.
+    - If you do not know whether you need the 32 or 64-bit install, check your system type. On Windows 10, head to Settings > System > About. Under the Device specifications header, next to System type, you’ll see if Windows and your processor are 32-bit or 64-bit.
+2. Open the downloaded exe file
+    - You can either click the downloaded file at the bottom of your browser to open, or navigate to your downloads folder
     - It may open a window asking if you want to allow this application to make changes to your device, click “Yes”
     - Click “Next” to accept the license
-3. Select Components on the next screen. 
-    - make sure to keep the “Windows Explorer integration” options checked
-4. Choose a default editor that you are comfortable with, or choose either Nano or Visual Studio Code if you have not used an editor before
+3. Select the installation desination
+    - The default option is recommended
+4. Select components
+    - Make sure to keep the “Windows Explorer integration” options checked
+    - Otherwise, the default options are recommended
+5. Choose a default editor that you are comfortable with, or choose either Nano or Visual Studio Code if you have not used an editor before
     - If you know or have used vi/vim, feel free to use it (otherwise it is not recommended)
     - You must have the editor installed to continue.  You can set a default now and change it later.
-5. Adjust your PATH environment. 
-    - select “Use Git from the Windows Command Prompt”
+6. Adjust the PATH environment
+    - Select “Use Git from the Windows Command Prompt”
     - The first option is also fine, as you’ll mainly be using Git from the new “Git Bash” program that is being installed, but the second option is ideal as it’ll give you the option of using it through either Git Bash or the Windows Command Prompt in the future if you wish
-6. Choose HTTPS transport backend. 
-    - select the “Use the OpenSSL library” option
-7. Configure line-ending conversions. 
-    - select the default option for handling line endings
-8. Use MinTTY as the default terminal emulator
-9. Configure extra options to enable file system caching and the git credential manager
-10. Wait while Git is installed onto your computer
-11. Click "Finish" to complete set-up
+7. Choose HTTPS transport backend. 
+    - Select the “Use the OpenSSL library” option
+8. Configure line-ending conversions
+    - The default option is recommended
+9. Configure the terminal emulator
+    - Select MinTTY as the default terminal emulator
+10. Choose the default behavior of `git pull`
+    - The default option is recommended
+11. Configure extra options to enable file system caching
+12. Choose a credential helper
+    - Select Git Credential Manager
+13. Wait while Git is installed onto your computer
+14. Click "Finish" to complete set-up
+    - It is not necessary to view the release notes
 
-
-\* It is **strongly suggested** that you select any options to install and use the "Git Bash" shell - it's generally included by default. The Git Bash shell will allow students with either Windows or Mac computers to run the same set of commands.
+\* It is **strongly recommended** that you select any options to install and use the "Git Bash" shell - it's generally included by default. The Git Bash shell will allow students with either Windows or Mac computers to run the same set of commands, and all commands in this program follow that convention.
 
 Note - if there are any differences in the options provided in the installer you download, accept the defaults.
 
-#### Git Installation Steps, step-by-step:
+#### Git Installation Steps Step-by-Step:
 
-Step 1 - Accept License:  
+Step 1: Git’s download page for Windows OS - choose 32-bit or 64-bit option
 
-* Click `NEXT` to continue
+<img src="images/win_git_download.png" width="650">
 
-<img src="Images/git_license.PNG" width="650">   
+Step 2: Open the downloaded file - on the license prompt, click “Next” to accept
 
-***
+<img src="images/win_git_license.png" width="550">   
 
-Step 2 - Select Destination:
+Step 3: Select the installation destination folder (default is recommended)
 
-<img src="Images/select_destination.PNG" width="650">   
+<img src="images/win_git_select_destination.png" width="550">   
 
-***
+Step 4: Select components - keep the “Windows Explorer integration” options
 
-Step 3 - Select components:  
-* make sure to keep the “Windows Explorer integration” options checked  
+<img src="images/win_git_select_components.png" width="550">
 
-<img src="Images/select_components.PNG" width="650">
+Step 5: Choose the default editor - choose Nano or Visual Studio Code if you have not used an editor before
 
-***
+<img src="images/win_git_default_editor.png" width="550">
 
-Step 4 - Select default editor:  
+Step 6: Adjust the PATH environment - second option is recommended
 
-<img src="Images/default_editor.png" width="650">
+<img src="images/win_git_adjust_path.png" width="550">
 
-***
+Step 7: Choose the HTTPS transport backend - choose OpenSSL library
 
-Step 5 - Adjust your PATH environment:  
+<img src="images/win_git_https_backend.png" width="550">
 
-<img src="Images/adjust_path.png" width="650">
+Step 8: Configure line ending conversions - select the default option
 
-***
+<img src="images/win_git_line_ending.png" width="550">
 
-Step 6 - Choose HTTPS transport backend
+Step 9: Configure the terminal emulator - choose MinTTY
 
-<img src="Images/https_backend.png" width="650">
+<img src="images/win_git_terminal_emulator.png" width="550">
 
-***
+Step 10: Choose “Default” as the default behavior of ‘git pull’
 
-Step 7 - Configure line-ending conversions
+<img src="images/win_git_default_pull.png" width="550">
 
-<img src="Images/line_ending.png" width="650">
+Step 11: Configure extra options to enable file system caching
 
-***
+<img src="images/win_git_extra_options.png" width="550">
 
-Step 8 - Configure the terminal emulator to use with Git Bash
+Step 12: Choose Git Credential Manager as the credential helper
 
-<img src="Images/terminal_emulator.png" width="650">
+<img src="images/win_git_credential_helper.png" width="550">
 
-***
+Step 13: Install
 
-Step 9 - Configure extra options
+<img src="images/win_git_installation.png" width="550">
 
-<img src="Images/default_pull.png" width="650">
+Step 14: Installation Complete - Click "Finish" to exit Setup (do not need to view release notes)
 
-***
+<img src="images/win_git_complete.png" width="550">
 
-Step 10 - Configure extra options
+### Confirming Your Git Installation
 
-<img src="Images/extra_options.png" width="650">
+To confirm you have installed Git successfully:
 
-***
-
-Step 11 - Choose a credential helper
-
-<img src="Images/credential_helper.png" width="650">
-
-***
-
-Step 12 - Installation
-
-<img src="Images/installation.png" width="650">
-
-***
-
-Step 13 - Complete!
-
-><img src="Images/complete.png" width="650">
-
-***
+1. Open a terminal window
+    - When we ask you to use the terminal, we mean the Git Bash application we just installed through Git
+2. Type `git --version`: It should return the version of git you are running
 
 ## Installing Anaconda 
 
-The easiest way to get set up with Python and Jupyter Notebook so you can start coding is to install the Anaconda distribution. 
+<img src="images/win_anaconda.png" width="650">
 
-<img src="Images/anaconda.png" width="650">
+The easiest way to get set up with Python and Jupyter Notebook so you can start coding is to install the Anaconda distribution. 
 
 ### Overview:
 
-1. Download the latest version of Anaconda [here](https://www.anaconda.com/download/#windows) - use Python 3.x
-
-    - A window may pop up asking if you want to give Anaconda your information in return for a cheat sheet - you do not need to do so unless you want to
-
+1. Download the latest version of Anaconda <a href="https://www.anaconda.com/download/#windows" target="_blank">here</a>
+    - Same as with the Git installation - If you do not know whether you need the 32 or 64-bit install, check your system type.
+    - A window may pop up asking if you want to give Anaconda your information in return for a cheat sheet - you do not need to do so unless you want to.
 2. Open the .exe file once it has downloaded to open the Anaconda installer
+    - Click "Next", then "I Agree" to accept the license
+3. Install for "Just Me"
+4. Select the destination folder
+    - The default option is recommended
+5. **Choose both Advanced Installation Options** 
+    - Although you will see a warning from the installer, **_make sure_** to choose _both_ "Add Anaconda to my PATH environment variable" _and_ "Register Anaconda as my default Python" !!
+    - For this program, these options will actually avoid you needed to uninstall and reinstall Anaconda in the near future, which is what they're warning about
+6. Wait while Anaconda is installed on your computer
+    - You can ignore any supplementary materials advertised, such as PyCharm
+7. When it thanks you for installing Anaconda, click "Finish"
+    - You do not need to learn more about your installation, and can close the browser window if one opens
 
-    - Option 1: When the .exe file is finished downloading, click the arrow to the right of the name of the file at the bottom of your browser, and select "Open"
-    - Option 2: Navigate to your "Downloads" folder and double click on the Anaconda exe file to open it
+#### Anaconda Installation Step-by-Step:
 
-3. Click "Next", then "I agree" to accept the license
-4. Install for "Just me" and click "Next"
-5. Select the destination folder - it is recommended that you stick with the default destination
-6. Choose both Advanced Installation Options - although you will see a warning from the installer, **_make sure_** to choose "Add Anaconda to my PATH environment" !!
-7. Wait while Anaconda is installed on your computer
-8. When the Anaconda installation is complete, click "Next"
+Step 1: Anaconda’s download page for Windows OS - choose 32-bit or 64-bit option
 
-    - You can skip the Pycharm installation
+<img src="images/win_anaconda_download.png" width="650">  
 
-9. When it thanks you for installing Anaconda, click "Finish"
-    - You do not need to learn more about your installation, and can close the browser window if it opens
+Step 2: Open the downloaded file - on the license prompt, click “I Agree” to accept
 
-#### Anaconda Installation Steps, step-by-step:
+<img src="images/win_anaconda_license.png" width="550">  
 
-Step 1 - Download Anaconda for Python 3.x
+Step 3: Select “Just Me” for Installation Type
 
-<img src="Images/anaconda_download.png" width="650">  
+<img src="images/win_anaconda_just_me.png" width="550">  
 
-***
+Step 4: Select the installation destination folder (default is recommended)
 
-Step 2 Open the exe file from the browser or your downloads folder
+<img src="images/win_anaconda_install_location.png" width="550">  
 
-<img src="Images/anaconda_license.png" width="650">  
+Step 5: **Make sure to choose both Advanced Installation Options!**
 
-***
+<img src="images/win_anaconda_advanced_options.png" width="550">  
 
-Step 3 - Continue through the Anaconda installer
+Step 6: Installing Anaconda
 
-<img src="Images/anaconda_install.png" width="650">  
+<img src="images/win_anaconda_install.png" width="550">  
 
-***
+Step 6, Continued: You can skip any add-ons, like the PyCharm installation
 
-Step 4 Install for "Just me" and click "Next"
+<img src="images/win_anaconda_pycharm.png" width="550">  
 
-<img src="Images/just_me.png" width="650">  
+Step 7: Installation Complete - click “Finish”
 
-***
+<img src="images/win_anaconda_finish_install.png" width="550">  
 
-Step 5 - Choose install location
+### Confirming Your Anaconda Installation
 
-<img src="Images/install_location.png" width="650">  
+To confirm you have installed Anaconda successfully:
 
-***
-
-Step 6 - Advanced Installation Options: **make sure to check the "Add Anaconda to my PATH environment" checkbox**
-
-<img src="Images/advanced_options.png" width="650">  
-
-***
-
-Step 7 - Installing Anaconda
-
-<img src="Images/install_location.png" width="650">  
-
-***
-
-Step 8 - Completing the install
-
-<img src="Images/install_complete.png" width="650">  
-
-***
-
-You can skip the Pycharm installation
-
-<img src="Images/skip_pycharm.png" width="650">  
-
-***
-
-Step 9 - Finish the install
-
-<img src="Images/finish_install.png" width="650">  
-
-***
-
-You can close any browser window that opens to an Anaconda page
-
-<img src="Images/anaconda_page.png" width="650">  
-
-***
+1. Open a terminal window
+2. Type `conda info`: It should return a table of details about your conda installation
 
 ## Summary
 
-Congratulations! If you've gotten this far and everything has worked, you have successfully installed Git and Anaconda on your computer! Next, you'll learn what a virtual environment is - and set one up!
+Congratulations! If you've gotten this far and everything has worked, you have successfully installed Git and Anaconda on your Windows PC! 
