@@ -55,63 +55,9 @@ Please note - the exact names and versions will change over time.
 
 Note - if there are any differences in the options provided in the installer you download, accept the defaults.
 
-#### Git Installation Steps Step-by-Step:
+#### Git Installation Step-by-Step:
 
-Step 1: Git’s download page for Windows OS - choose 32-bit or 64-bit option
-
-<img src="images/win_git_download.png" width="650">
-
-Step 2: Open the downloaded file - on the license prompt, click “Next” to accept
-
-<img src="images/win_git_license.png" width="550">   
-
-Step 3: Select the installation destination folder (default is recommended)
-
-<img src="images/win_git_select_destination.png" width="550">   
-
-Step 4: Select components - keep the “Windows Explorer integration” options
-
-<img src="images/win_git_select_components.png" width="550">
-
-Step 5: Choose the default editor - choose Nano or Visual Studio Code if you have not used an editor before
-
-<img src="images/win_git_default_editor.png" width="550">
-
-Step 6: Adjust the PATH environment - second option is recommended
-
-<img src="images/win_git_adjust_path.png" width="550">
-
-Step 7: Choose the HTTPS transport backend - choose OpenSSL library
-
-<img src="images/win_git_https_backend.png" width="550">
-
-Step 8: Configure line ending conversions - select the default option
-
-<img src="images/win_git_line_ending.png" width="550">
-
-Step 9: Configure the terminal emulator - choose MinTTY
-
-<img src="images/win_git_terminal_emulator.png" width="550">
-
-Step 10: Choose “Default” as the default behavior of ‘git pull’
-
-<img src="images/win_git_default_pull.png" width="550">
-
-Step 11: Configure extra options to enable file system caching
-
-<img src="images/win_git_extra_options.png" width="550">
-
-Step 12: Choose Git Credential Manager as the credential helper
-
-<img src="images/win_git_credential_helper.png" width="550">
-
-Step 13: Install
-
-<img src="images/win_git_installation.png" width="550">
-
-Step 14: Installation Complete - Click "Finish" to exit Setup (do not need to view release notes)
-
-<img src="images/win_git_complete.png" width="550">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB09TxDpbxOjud38L2dX0_YJbh2JOVDMYqkTOxhEbhKKLjCmwM9JP27JTJ8VtOYAwnPzlJg_Ipf7gd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Confirming Your Git Installation
 
@@ -149,37 +95,7 @@ The easiest way to get set up with Python and Jupyter Notebook so you can start 
 
 #### Anaconda Installation Step-by-Step:
 
-Step 1: Anaconda’s download page for Windows OS - choose 32-bit or 64-bit option
-
-<img src="images/win_anaconda_download.png" width="650">  
-
-Step 2: Open the downloaded file - on the license prompt, click “I Agree” to accept
-
-<img src="images/win_anaconda_license.png" width="550">  
-
-Step 3: Select “Just Me” for Installation Type
-
-<img src="images/win_anaconda_just_me.png" width="550">  
-
-Step 4: Select the installation destination folder (default is recommended)
-
-<img src="images/win_anaconda_install_location.png" width="550">  
-
-Step 5: **Make sure to choose both Advanced Installation Options!**
-
-<img src="images/win_anaconda_advanced_options.png" width="550">  
-
-Step 6: Installing Anaconda
-
-<img src="images/win_anaconda_install.png" width="550">  
-
-Step 6, Continued: You can skip any add-ons, like the PyCharm installation
-
-<img src="images/win_anaconda_pycharm.png" width="550">  
-
-Step 7: Installation Complete - click “Finish”
-
-<img src="images/win_anaconda_finish_install.png" width="550">  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_m9nr642u3w6p3MmgyvnRWHgVRLVA_8EwsW8UDxgbxmMU2cJ04AkQSbBafLqGOJgQveXLzQtBWIas/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Confirming Your Anaconda Installation
 
