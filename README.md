@@ -25,7 +25,7 @@ Please note - the exact names and versions will change over time.
     - You can either click the downloaded file at the bottom of your browser to open, or navigate to your downloads folder
     - It may open a window asking if you want to allow this application to make changes to your device, click “Yes”
     - Click “Next” to accept the license
-3. Select the installation desination
+3. Select the installation destination
     - The default option is recommended
 4. Select components
     - Make sure to keep the “Windows Explorer integration” options checked
