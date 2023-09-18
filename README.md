@@ -68,7 +68,7 @@
 </ul>
 </li>
 </ol>
-<p>* It is <strong>strongly recommended</strong> that you select any options to install and use the "Git Bash" shell - it's generally included by default. The Git Bash shell will allow students with either Windows or Mac computers to run the same set of commands, and all commands in this program follow that convention.</p>
+<blockquote>It is <strong>strongly recommended</strong> that you select any options to install and use the "Git Bash" shell - it's generally included by default. The Git Bash shell will allow students with either Windows or Mac computers to run the same set of commands, and all commands in this program follow that convention.</blockquote>
 <p>Note - if there are any differences in the options provided in the installer you download, accept the defaults.</p>
 <h4>Git Installation Steps Step-by-Step:</h4>
 <p>Step 1: Git’s download page for Windows OS - choose 32-bit or 64-bit option</p>
