@@ -1,10 +1,10 @@
-lessons:
+:lessons:
 - :canvas_url: https://learning.flatironschool.com/courses/153/pages/setting-up-a-professional-data-science-environment-windows-installation
   :course_id: 153
   :id: 19172
   :type: page
-- canvas_url: https://learning.flatironschool.com/courses/6948/pages/setting-up-a-professional-data-science-environment-windows-installation
-  course_id: 6948
-  id: setting-up-a-professional-data-science-environment-windows-installation
-  instance: c
-  type: page
+- :canvas_url: https://learning.flatironschool.com/courses/6948/pages/setting-up-a-professional-data-science-environment-windows-installation
+  :course_id: 6948
+  :id: setting-up-a-professional-data-science-environment-windows-installation
+  :instance: c
+  :type: page
