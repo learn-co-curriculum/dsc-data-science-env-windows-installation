@@ -1,2 +1,6 @@
-null
-...
+---
+:lessons:
+- :id: 19172
+  :course_id: 153
+  :canvas_url: https://learning.flatironschool.com/courses/153/pages/setting-up-a-professional-data-science-environment-windows-installation
+  :type: page
